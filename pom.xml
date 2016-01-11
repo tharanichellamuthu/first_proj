@@ -4,7 +4,7 @@
   <groupId>first.wipro.new</groupId>
   <artifactId>first_proj</artifactId>
   <packaging>war</packaging>
-  <version>4.2-SNAPSHOT</version>
+  <version>4.3-SNAPSHOT</version>
   <name>first_proj Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
